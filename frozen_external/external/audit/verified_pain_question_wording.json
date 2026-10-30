@@ -1,0 +1,23 @@
+[
+  {
+    "cohort": "SHARE",
+    "wave": 5,
+    "path": "DATA_ROOT\\analysis\\pain_external_replication_20261030\\audit\\source_documents\\SHARE_wave5_generic_questionnaire.pdf",
+    "page": 32,
+    "excerpt": " 4. Fatigue 96. None PH084_TroubledPain Are you troubled with pain? 1. Yes 5. No PH085_PainLevel How bad is the pain most of the time? Is it"
+  },
+  {
+    "cohort": "SHARE",
+    "wave": 6,
+    "path": "DATA_ROOT\\analysis\\pain_external_replication_20261030\\audit\\source_documents\\SHARE_wave6_generic_questionnaire.pdf",
+    "page": 87,
+    "excerpt": " 4. Fatigue 96. None PH084_TroubledPain Are you troubled with pain? TROUBLED BY PAIN 1. Yes 5. No Txt_FL_PH087 CHECK NOT ((PH087_PainJointLo"
+  },
+  {
+    "cohort": "CHARLS",
+    "wave": 2,
+    "path": "DATA_ROOT\\CHARLS\\2013\\CHARLS_Wave2_Main_Questionnaire.pdf",
+    "page": 89,
+    "excerpt": " 非常多 WB16 Yesterday, did you feel any pain? 昨天，您感到疼痛吗？ 1. None 完全不→Skip DA042 and DA042_W2_1 跳过DA042和DA042_W2_1 2. A little 有一点 3. Some 有一些 4. Quite a bit 比较严重 5. A lot 非常严重 [Show Card 出示卡片9] DA042 On what part of your body do you feel pain? Please list all parts of body you are "
+  }
+]

@@ -1,0 +1,16 @@
+cohort,variable,n,missing
+CHARLS,age,427,0
+CHARLS,female,427,0
+CHARLS,education,427,0
+CHARLS,smoking,427,0
+CHARLS,arthritis,427,1
+CHARLS,cvd,427,1
+CHARLS,cesd,427,26
+SHARE,age,4839,0
+SHARE,female,4839,0
+SHARE,education,4839,101
+SHARE,smoking,4839,623
+SHARE,arthritis,4839,0
+SHARE,cvd,4839,0
+SHARE,cesd,4839,61
+SHARE,function3,4839,0

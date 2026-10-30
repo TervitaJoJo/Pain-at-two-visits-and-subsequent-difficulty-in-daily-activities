@@ -1,0 +1,5 @@
+variable,n,missing,missing_percent,minimum,maximum
+diabetes_medication,4215,2,0.04744958481613286,0.0,1.0
+bmi,4215,82,1.9454329774614472,13.619612693786621,63.60796356201172
+diabetes_duration,4215,1175,27.876631079478052,0.0,76.0
+landmark_function3,4215,0,0.0,0.0,3.0

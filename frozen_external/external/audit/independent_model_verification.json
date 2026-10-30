@@ -1,0 +1,59 @@
+{
+  "checks": [
+    {
+      "cohort": "CHARLS",
+      "contrast": "01_vs_00",
+      "R_coefficient": 0.456143308852277,
+      "Python_coefficient": 0.4561433863514334,
+      "absolute_coefficient_difference": 7.74991564256311e-08,
+      "Python_R_SE_ratio": 0.9999981515692863,
+      "passed": true
+    },
+    {
+      "cohort": "CHARLS",
+      "contrast": "10_vs_00",
+      "R_coefficient": 0.255349669695463,
+      "Python_coefficient": 0.25534915870915575,
+      "absolute_coefficient_difference": 5.109863072672027e-07,
+      "Python_R_SE_ratio": 0.9999987565446672,
+      "passed": true
+    },
+    {
+      "cohort": "CHARLS",
+      "contrast": "11_vs_00",
+      "R_coefficient": 0.390229068502651,
+      "Python_coefficient": 0.3902294738610062,
+      "absolute_coefficient_difference": 4.0535835521549046e-07,
+      "Python_R_SE_ratio": 0.9999999078868852,
+      "passed": true
+    },
+    {
+      "cohort": "SHARE",
+      "contrast": "01_vs_00",
+      "R_coefficient": 0.606574586562754,
+      "Python_coefficient": 0.6065744385915519,
+      "absolute_coefficient_difference": 1.479712020691082e-07,
+      "Python_R_SE_ratio": 0.999999098482527,
+      "passed": true
+    },
+    {
+      "cohort": "SHARE",
+      "contrast": "10_vs_00",
+      "R_coefficient": -0.0507098206634884,
+      "Python_coefficient": -0.05070955435850673,
+      "absolute_coefficient_difference": 2.6630498167062866e-07,
+      "Python_R_SE_ratio": 1.0000000929366109,
+      "passed": true
+    },
+    {
+      "cohort": "SHARE",
+      "contrast": "11_vs_00",
+      "R_coefficient": 0.633576291489461,
+      "Python_coefficient": 0.6335766154388215,
+      "absolute_coefficient_difference": 3.239493604478838e-07,
+      "Python_R_SE_ratio": 0.9999988445238012,
+      "passed": true
+    }
+  ],
+  "note": "Same completed dataset, independent Python GLM solver and manual participant-cluster sandwich using expected Fisher-information bread, matching R GLM HC1. Coefficients and SE ratios must agree to 0.0001."
+}
