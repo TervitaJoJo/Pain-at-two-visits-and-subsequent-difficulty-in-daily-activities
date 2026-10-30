@@ -1,0 +1,298 @@
+[
+  {
+    "source": "analysis\\pain_transition_diabetes_adl_20261029\\code\\01_build_cohorts.py",
+    "destination": "source/analysis/pain_transition_diabetes_adl_20261029/code/01_build_cohorts.py",
+    "original_sha256": "fee97a1eee2f255c68dc5e59dd523302fc1190078d765217921c2b9ece115204",
+    "packaged_sha256": "2634100b3a1a10bba6b91b61de9b617c52d05cf2e4d4444d8d0781422bd5bede",
+    "modified": true,
+    "packaging_change_scope": "Configurable input paths, workspace-relative paths/output locations or whitespace; statistical formulas and seeds retained."
+  },
+  {
+    "source": "analysis\\pain_transition_diabetes_adl_20261029\\code\\02_analyze.R",
+    "destination": "source/analysis/pain_transition_diabetes_adl_20261029/code/02_analyze.R",
+    "original_sha256": "e95b051ca689709328545bcb3892f2a3ff9777048ff9a01b71bf3155a454a7cc",
+    "packaged_sha256": "6a348aeaf8847c0e45de7ae9c38d94f9fa65680920e03b5501b4eb4e3a8319fd",
+    "modified": true,
+    "packaging_change_scope": "Whitespace or path portability edits only; model computations retained."
+  },
+  {
+    "source": "analysis\\pain_transition_diabetes_adl_20261029\\code\\03_export_verification.R",
+    "destination": "source/analysis/pain_transition_diabetes_adl_20261029/code/03_export_verification.R",
+    "original_sha256": "11c9090e42a80afea9e599c300bfba4edea877ed28e215d4c601a89c41e339cd",
+    "packaged_sha256": "ba1b2e1171d6ee146b59c1e994ebec9baf8af29d27b1d86a31238d2b8ca384c3",
+    "modified": true,
+    "packaging_change_scope": "Whitespace or path portability edits only; model computations retained."
+  },
+  {
+    "source": "analysis\\pain_transition_diabetes_adl_20261029\\code\\04_independent_verification.py",
+    "destination": "source/analysis/pain_transition_diabetes_adl_20261029/code/04_independent_verification.py",
+    "original_sha256": "9e08895b51b010ad6f3bc8cba69886cb48d7d5882989d78aece44ed66d4176a3",
+    "packaged_sha256": "07f5b72f6323b7c91561ca47ac913e8cb017c506bf63d8eaeec8d0e7f39a1f1f",
+    "modified": true,
+    "packaging_change_scope": "Whitespace or path portability edits only; model computations retained."
+  },
+  {
+    "source": "analysis\\pain_transition_diabetes_adl_20261029\\revision_20261029\\01_extract_revision.py",
+    "destination": "source/analysis/pain_transition_diabetes_adl_20261029/revision_20261029/01_extract_revision.py",
+    "original_sha256": "4986d811053883204fb7e8fbf8af719efd5bd88b855c6c74734ec7addf0b06fb",
+    "packaged_sha256": "3f76449be77bf1330a4c028bf919c9d59a9f774eff15b28e923b8172bdc76040",
+    "modified": true,
+    "packaging_change_scope": "Configurable input paths, workspace-relative paths/output locations or whitespace; statistical formulas and seeds retained."
+  },
+  {
+    "source": "analysis\\pain_transition_diabetes_adl_20261029\\revision_20261029\\02_analyze_revision.R",
+    "destination": "source/analysis/pain_transition_diabetes_adl_20261029/revision_20261029/02_analyze_revision.R",
+    "original_sha256": "818129a89234fba4e68d770f48a6850880c14626173be07793534ada1b29a19c",
+    "packaged_sha256": "d2493236f154b4b7b78c2c85afca6c2a698590c410bb768cf7df3d95c932f256",
+    "modified": true,
+    "packaging_change_scope": "Whitespace or path portability edits only; model computations retained."
+  },
+  {
+    "source": "analysis\\pain_transition_diabetes_adl_20261029\\revision_20261029\\03_verify_revision.R",
+    "destination": "source/analysis/pain_transition_diabetes_adl_20261029/revision_20261029/03_verify_revision.R",
+    "original_sha256": "42e90c4410027a74fc88e7544d4d49c65fb457c7e30390f0b30cf0cc8136e0ba",
+    "packaged_sha256": "ab99a838315b9e688247da80728301919dbbb9ee7697ab71db20512147e10f40",
+    "modified": true,
+    "packaging_change_scope": "Configurable input paths, workspace-relative paths/output locations or whitespace; statistical formulas and seeds retained."
+  },
+  {
+    "source": "analysis\\pain_transition_diabetes_adl_20261029\\revision_20261029\\04_attrition_by_pattern.py",
+    "destination": "source/analysis/pain_transition_diabetes_adl_20261029/revision_20261029/04_attrition_by_pattern.py",
+    "original_sha256": "8473c0e15ca4552cc152208af36d02dab1195f247c96d82f19c939a4eb0c1f5e",
+    "packaged_sha256": "8473c0e15ca4552cc152208af36d02dab1195f247c96d82f19c939a4eb0c1f5e",
+    "modified": false,
+    "packaging_change_scope": "None"
+  },
+  {
+    "source": "analysis\\pain_transition_diabetes_adl_20261029\\revision_20261029\\06_complete_case_audit.R",
+    "destination": "source/analysis/pain_transition_diabetes_adl_20261029/revision_20261029/06_complete_case_audit.R",
+    "original_sha256": "5315c0f8e27cf8b9283352faf52999baaed0efb368d7c043726822c2bb5df65f",
+    "packaged_sha256": "358df5fe30cd13ac29eae8c7521d722c6e1fefa8502f2f02aeb0751e27aaf4bf",
+    "modified": true,
+    "packaging_change_scope": "Whitespace or path portability edits only; model computations retained."
+  },
+  {
+    "source": "analysis\\pain_transition_diabetes_adl_20261029\\revision_20261029\\07_mi_posthoc_upgrade_audit.py",
+    "destination": "source/analysis/pain_transition_diabetes_adl_20261029/revision_20261029/07_mi_posthoc_upgrade_audit.py",
+    "original_sha256": "0e4a64c2eed32b86a6aaa019c85a7ac9de53280701847a8995d5425a3d93b269",
+    "packaged_sha256": "ead39a2958ca01af02aebf57c764973566a687a29138e71348266c1014ebc433",
+    "modified": true,
+    "packaging_change_scope": "Configurable input paths, workspace-relative paths/output locations or whitespace; statistical formulas and seeds retained."
+  },
+  {
+    "source": "analysis\\pain_transition_diabetes_adl_20261029\\revision_20261029\\audit_variables.py",
+    "destination": "source/analysis/pain_transition_diabetes_adl_20261029/revision_20261029/audit_variables.py",
+    "original_sha256": "f1a20ec3d0deb081aff36258582b6db0a6653679052164861ec684386067e627",
+    "packaged_sha256": "65c38f557dd5ceeeaeb50b5fcb2d5ca9774d358517e38528a33f6e6394dfd46d",
+    "modified": true,
+    "packaging_change_scope": "Whitespace or path portability edits only; model computations retained."
+  },
+  {
+    "source": "analysis\\pain_external_replication_20261030\\code\\01_build.py",
+    "destination": "source/analysis/pain_external_replication_20261030/code/01_build.py",
+    "original_sha256": "10ac528b57aa8ec4f796c38e5ea718ff86744460d9df2284cad37a7772aa2154",
+    "packaged_sha256": "5805bd65737e0fea0362f14a6cef35cd43c2fcf1fc46bfa739886fc1d4b3d6cd",
+    "modified": true,
+    "packaging_change_scope": "Configurable input paths, workspace-relative paths/output locations or whitespace; statistical formulas and seeds retained."
+  },
+  {
+    "source": "analysis\\pain_external_replication_20261030\\code\\02_analyze.R",
+    "destination": "source/analysis/pain_external_replication_20261030/code/02_analyze.R",
+    "original_sha256": "b48b2649c02411b8c99cefebc9f862ee8a5eb409e0f74bcd7a90717732e76681",
+    "packaged_sha256": "6820a6a0b730b56612e01ec94812874159772d10ffc52470a1e7b4ba67a049ab",
+    "modified": true,
+    "packaging_change_scope": "Whitespace or path portability edits only; model computations retained."
+  },
+  {
+    "source": "analysis\\pain_external_replication_20261030\\code\\03_verify_models.py",
+    "destination": "source/analysis/pain_external_replication_20261030/code/03_verify_models.py",
+    "original_sha256": "3df0c2c202ca6b6bff51f2009db25c5de9b7305fb594b841c3bcf331e2d8efdf",
+    "packaged_sha256": "7428d25084b4d7e0ad5befc1c5f92d22f58cb3e03c8eda6b456c4472fa5fca3f",
+    "modified": true,
+    "packaging_change_scope": "Whitespace or path portability edits only; model computations retained."
+  },
+  {
+    "source": "analysis\\pain_external_replication_20261030\\code\\04_compile.py",
+    "destination": "source/analysis/pain_external_replication_20261030/code/04_compile.py",
+    "original_sha256": "e16bf98eebe63357fd2786c87b917cd906202e91330b386891cb683cabd7efbc",
+    "packaged_sha256": "1f53af533bdd7d676f03421edd3545d51128ebe76b83859f6bc99cc479db9da5",
+    "modified": true,
+    "packaging_change_scope": "Whitespace or path portability edits only; model computations retained."
+  },
+  {
+    "source": "analysis\\pain_external_replication_20261030\\meta_analysis\\code\\01_meta.R",
+    "destination": "source/analysis/pain_external_replication_20261030/meta_analysis/code/01_meta.R",
+    "original_sha256": "f30b694ea9f5772b86b66ec32eae3fc4d5d80acb2374aeca1dd16fb0a691ea63",
+    "packaged_sha256": "1862ad8912ca212d47de8646cadfd2b1cc130d534c0593750b9acc212c819bf4",
+    "modified": true,
+    "packaging_change_scope": "Configurable input paths, workspace-relative paths/output locations or whitespace; statistical formulas and seeds retained."
+  },
+  {
+    "source": "analysis\\pain_external_replication_20261030\\meta_analysis\\code\\02_verify.py",
+    "destination": "source/analysis/pain_external_replication_20261030/meta_analysis/code/02_verify.py",
+    "original_sha256": "bec3824989c3b75d784ede51687112d456036d57a9dbeca6259c0efcdc2e2ece",
+    "packaged_sha256": "fe44593d6d1e6fea5fa16cf52b1ca8128f7039d89558d0a4d6aa2973ca071bbf",
+    "modified": true,
+    "packaging_change_scope": "Configurable input paths, workspace-relative paths/output locations or whitespace; statistical formulas and seeds retained."
+  },
+  {
+    "source": "analysis\\pain_external_replication_20261030\\additional_20261030\\code\\00_common.R",
+    "destination": "source/analysis/pain_external_replication_20261030/additional_20261030/code/00_common.R",
+    "original_sha256": "1c54a128fd0852645e8c00bcb1e7cdf38294bdf4cdaffcd03e3d9c4790d09916",
+    "packaged_sha256": "a1e0bef14207cac565d0a95a1fb2a1c51da0ddd2f09975fd2c410669b4277968",
+    "modified": true,
+    "packaging_change_scope": "Whitespace or path portability edits only; model computations retained."
+  },
+  {
+    "source": "analysis\\pain_external_replication_20261030\\additional_20261030\\code\\01_extract_share.py",
+    "destination": "source/analysis/pain_external_replication_20261030/additional_20261030/code/01_extract_share.py",
+    "original_sha256": "d8bdabd0fd805603ae4db7e38e27a8782ca6ea0e63e804a0db86fdc7888f24fd",
+    "packaged_sha256": "f595f547e0f64bf653703c6d55fb19a1f6544c27ef47956033d11508f602a4b5",
+    "modified": true,
+    "packaging_change_scope": "Configurable input paths, workspace-relative paths/output locations or whitespace; statistical formulas and seeds retained."
+  },
+  {
+    "source": "analysis\\pain_external_replication_20261030\\additional_20261030\\code\\02_share_additional.R",
+    "destination": "source/analysis/pain_external_replication_20261030/additional_20261030/code/02_share_additional.R",
+    "original_sha256": "46589a368117b0040524f5f88d4a7dca3c9194d204f85b98818ddc0e646dc981",
+    "packaged_sha256": "9d733663f984f4908613772759157f2226783222cbc8092fd36d30a4dbaa3aa3",
+    "modified": true,
+    "packaging_change_scope": "Whitespace or path portability edits only; model computations retained."
+  },
+  {
+    "source": "analysis\\pain_external_replication_20261030\\additional_20261030\\code\\03_standardized_risks.R",
+    "destination": "source/analysis/pain_external_replication_20261030/additional_20261030/code/03_standardized_risks.R",
+    "original_sha256": "e93a426d6374287298c9c4a2960ddf3df33b47060cf68fb06b3aa1cb8fa96a9d",
+    "packaged_sha256": "875ebd788f3c8ab458e301ec22591bee56edd13e358a33bae1f50a57f37889d7",
+    "modified": true,
+    "packaging_change_scope": "Whitespace or path portability edits only; model computations retained."
+  },
+  {
+    "source": "analysis\\pain_external_replication_20261030\\additional_20261030\\code\\05_meta_additional.R",
+    "destination": "source/analysis/pain_external_replication_20261030/additional_20261030/code/05_meta_additional.R",
+    "original_sha256": "b421959e3989140b3b07bc894e6f760ab05ac26a705bebadd662ee77cb05bad8",
+    "packaged_sha256": "7c388485440a34bf8e575203fd03fbb2661e42b729a3871b1599821f0c51e73d",
+    "modified": true,
+    "packaging_change_scope": "Whitespace or path portability edits only; model computations retained."
+  },
+  {
+    "source": "analysis\\pain_external_replication_20261030\\additional_20261030\\code\\06_export_verification.R",
+    "destination": "source/analysis/pain_external_replication_20261030/additional_20261030/code/06_export_verification.R",
+    "original_sha256": "270034236e1be1e5cdabf8d6264a69cca74aba73303285986c213f33f47d5eac",
+    "packaged_sha256": "f1bf4bc081ebf711b4a5ac6e660eec8cadaadb5a4c87a3aca8cee355da04912d",
+    "modified": true,
+    "packaging_change_scope": "Whitespace or path portability edits only; model computations retained."
+  },
+  {
+    "source": "analysis\\pain_external_replication_20261030\\additional_20261030\\code\\07_verify.py",
+    "destination": "source/analysis/pain_external_replication_20261030/additional_20261030/code/07_verify.py",
+    "original_sha256": "5d9f7b57d8545e0a6710a163bbd83136a0d748251b4f009e4feb08873ce85058",
+    "packaged_sha256": "f31c2a2239ae63b9d1eca988727de287aafbec85ff4a88ed9dcf1cd3b4a82b51",
+    "modified": true,
+    "packaging_change_scope": "Whitespace or path portability edits only; model computations retained."
+  },
+  {
+    "source": "analysis\\pain_external_replication_20261030\\additional_20261030\\figures\\plot_absolute_risks.py",
+    "destination": "source/analysis/pain_external_replication_20261030/additional_20261030/figures/plot_absolute_risks.py",
+    "original_sha256": "caa887727129bc7d1e0b0534fb1c320944da35e6f5433f693e47229d49344539",
+    "packaged_sha256": "5a0b442ed735189a506222f7c00b59a389b047ff74f95a9ad310d41afd53e2f7",
+    "modified": true,
+    "packaging_change_scope": "Whitespace or path portability edits only; model computations retained."
+  },
+  {
+    "source": "submission_visualization/figure_data.py",
+    "destination": "source/presentation/figure_data.py",
+    "original_sha256": "ee572f3b5b7495e4645c72c81ea30c6ea66d423534a1322b93f81f1e21e61ca3",
+    "packaged_sha256": "3cf4e1dc48f5e7b12de28e12759662f646d48526259fa9c6c2f3f18ef191bcd4",
+    "modified": true,
+    "packaging_change_scope": "Configurable input paths, workspace-relative paths/output locations or whitespace; statistical formulas and seeds retained."
+  },
+  {
+    "source": "submission_visualization/gen_crosssectional.py",
+    "destination": "source/presentation/figures/gen_crosssectional.py",
+    "original_sha256": "79c84b26bd3e2a1e7c6cd1d38ee85a103b2aec76a0d829edb33b5e2f8699c362",
+    "packaged_sha256": "28f5722ec8730cd4135bc2372b8682152a8780825a4c9c7152245f6497eb16e7",
+    "modified": true,
+    "packaging_change_scope": "Configurable input paths, workspace-relative paths/output locations or whitespace; statistical formulas and seeds retained."
+  },
+  {
+    "source": "submission_visualization/gen_diagnostics.py",
+    "destination": "source/presentation/figures/gen_diagnostics.py",
+    "original_sha256": "bdcd24a7107b87449dc7142cc4f117d87d9bb0d0023bbc5f9e8afa9203fb8943",
+    "packaged_sha256": "1a1834c9c0dd9ba9197a5f5fd764a92001cb6b4fb42f308a83319b3366623e15",
+    "modified": true,
+    "packaging_change_scope": "Configurable input paths, workspace-relative paths/output locations or whitespace; statistical formulas and seeds retained."
+  },
+  {
+    "source": "submission_visualization/gen_observed_events.py",
+    "destination": "source/presentation/figures/gen_observed_events.py",
+    "original_sha256": "a2346758e709adacaea727ebd9043e0a2a00540bf49d34d03b801398ae6b3477",
+    "packaged_sha256": "7cd6b97b67c167c151e0937f98530b1d400aa68ff90a918b317a699a3388ab24",
+    "modified": true,
+    "packaging_change_scope": "Configurable input paths, workspace-relative paths/output locations or whitespace; statistical formulas and seeds retained."
+  },
+  {
+    "source": "submission_visualization/gen_primary.py",
+    "destination": "source/presentation/figures/gen_primary.py",
+    "original_sha256": "3e1d4032569db23d4a36b62a5c5959422c0d1d4e70766633aaf64489c0f0250c",
+    "packaged_sha256": "5221d45e8223c36294b5d7fd219d4ec76cd6efa99e4b63bf0001dc1de86be633",
+    "modified": true,
+    "packaging_change_scope": "Configurable input paths, workspace-relative paths/output locations or whitespace; statistical formulas and seeds retained."
+  },
+  {
+    "source": "submission_visualization/gen_sensitivity.py",
+    "destination": "source/presentation/figures/gen_sensitivity.py",
+    "original_sha256": "366dfabc020f49ed677ab5df6349ad8dbcd146bdc58b727b16d6eb12f5102507",
+    "packaged_sha256": "af071d08163a6eff59b23775f65481b27c8ef934c6dc710feb15ee1c5655ca2e",
+    "modified": true,
+    "packaging_change_scope": "Configurable input paths, workspace-relative paths/output locations or whitespace; statistical formulas and seeds retained."
+  },
+  {
+    "source": "submission_visualization/plot_utils.py",
+    "destination": "source/presentation/_utils/plot_utils.py",
+    "original_sha256": "44fa7d7c11d0d374bd43486e27e453b590653d35769e071ab2c1946ff2e8ac35",
+    "packaged_sha256": "4f6ae42e21ecf81bccc6ac32c4cf1a7a9f34cea8d2a3e63a6ed506af7524d975",
+    "modified": true,
+    "packaging_change_scope": "Configurable input paths, workspace-relative paths/output locations or whitespace; statistical formulas and seeds retained."
+  },
+  {
+    "source": "submission_visualization/vivid_config.py",
+    "destination": "source/presentation/_utils/vivid_config.py",
+    "original_sha256": "0284ec5fb1b1bb45da3acda9d05357ddecffac297d0e2e8d1b3be20d609eda87",
+    "packaged_sha256": "0284ec5fb1b1bb45da3acda9d05357ddecffac297d0e2e8d1b3be20d609eda87",
+    "modified": false,
+    "packaging_change_scope": "Configurable input paths, workspace-relative paths/output locations or whitespace; statistical formulas and seeds retained."
+  },
+  {
+    "source": "submission_visualization/palettes.json",
+    "destination": "source/presentation/_utils/palettes.json",
+    "original_sha256": "3334a19a2c88bd2f8fe6312ac3285fbb0775388a9ac4c0ce8db113bd758bb179",
+    "packaged_sha256": "d493a3e9bb3b717fcb05b7b3f35da439dc1be0deef9890a1ae69b0135958a511",
+    "modified": true,
+    "packaging_change_scope": "Configurable input paths, workspace-relative paths/output locations or whitespace; statistical formulas and seeds retained."
+  },
+  {
+    "source": "submission_visualization/palette_maps.py",
+    "destination": "source/presentation/_utils/palette_maps.py",
+    "original_sha256": "ae96e91a898a75b6feafd2c5ca54693298d38775ee1cf90717c0a894ac119d8a",
+    "packaged_sha256": "ae96e91a898a75b6feafd2c5ca54693298d38775ee1cf90717c0a894ac119d8a",
+    "modified": false,
+    "packaging_change_scope": "Configurable input paths, workspace-relative paths/output locations or whitespace; statistical formulas and seeds retained."
+  },
+  {
+    "source": "analysis\\pain_external_replication_20261030\\meta_analysis\\figures\\plot_meta_forest.py",
+    "destination": "source/analysis/pain_external_replication_20261030/meta_analysis/figures/plot_meta_forest.py",
+    "original_sha256": "133616a198294097c9a38bc59ed583701b59cf53717df5404f7c6a73952a9119",
+    "packaged_sha256": "50926a1b97fccf11da4ae1752bd0e2f8211e304a4c6c669485ec22f93a4fafce",
+    "modified": true,
+    "packaging_change_scope": "Whitespace or path portability edits only; model computations retained."
+  },
+  {
+    "source": "analysis/pain_transition_diabetes_adl_20261029/code/05_make_report.py",
+    "destination": "source/analysis/pain_transition_diabetes_adl_20261029/code/05_compile_tables.py",
+    "packaging_change_scope": "Original table construction retained; historical narrative and preliminary plots omitted in favor of separate original submission figure sources.",
+    "original_sha256": "1a50c26c1d4c515c64b092ac95677c6ccbd70f7770229ec4464249fec5c13e64",
+    "packaged_sha256": "b008959599651a5cb9ac438f1070e7030c6e3a26ebba8d226da3dc46b3cc0f61",
+    "modified": true
+  }
+]

@@ -1,0 +1,25 @@
+{
+  "freeze_date": "2026-10-30",
+  "private_analysis_independent_checks": 335,
+  "private_analysis_all_passed": true,
+  "portable_summary_independent_checks": 333,
+  "portable_summary_all_passed": true,
+  "portable_summary_commands_completed": 11,
+  "portable_reconstructed_datasets_exactly_equal": 12,
+  "four_cohort_synthesis_variants_reproduced": 8,
+  "three_cohort_synthesis_rows_reproduced": 10,
+  "figure_scripts_executed": 7,
+  "python_sources_parsed": 26,
+  "R_sources_parsed": 13,
+  "original_submission_files_unchanged": 427,
+  "new_SHARE_fits_converged": 1251,
+  "new_function_adjusted_fits_converged": 150,
+  "new_model_warnings": 0,
+  "full_historical_MI_refit_repeated_in_portable_workspace": false,
+  "data_protection": "No participant data, fitted model objects or personal identifiers distributed.",
+  "anonymity_audit": {
+    "errors": 0,
+    "automatic_csv_extension_warnings": 94,
+    "warnings_reviewed_as_aggregate_only": 94
+  }
+}

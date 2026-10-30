@@ -1,0 +1,497 @@
+[
+  {
+    "file": "frozen_primary/primary/results/all_contrasts.csv",
+    "stage_to": "analysis/pain_transition_diabetes_adl_20261029/results/all_contrasts.csv",
+    "source_sha256": "3fb83e408efc869d754c671e287feae44105ecee7a670d381ac88487e968ef9d"
+  },
+  {
+    "file": "frozen_primary/primary/results/ELSA_contrasts.csv",
+    "stage_to": "analysis/pain_transition_diabetes_adl_20261029/results/ELSA_contrasts.csv",
+    "source_sha256": "a7f114e1afbf81786ddff92ca7c37ba34696537bdda5ece4b8f326518737787e"
+  },
+  {
+    "file": "frozen_primary/primary/results/HRS_contrasts.csv",
+    "stage_to": "analysis/pain_transition_diabetes_adl_20261029/results/HRS_contrasts.csv",
+    "source_sha256": "2fa06d9bc386eb69fb77d3f4f2b53e1c9a4c7e522556f3172bb479ab15f66a12"
+  },
+  {
+    "file": "frozen_primary/primary/results/table1_cross_sectional_baseline.csv",
+    "stage_to": "analysis/pain_transition_diabetes_adl_20261029/results/table1_cross_sectional_baseline.csv",
+    "source_sha256": "27b191280ecee939f6f46989326d5a937832b177c3a70cb7f0979aa58a8891bc"
+  },
+  {
+    "file": "frozen_primary/primary/results/table1_longitudinal_baseline.csv",
+    "stage_to": "analysis/pain_transition_diabetes_adl_20261029/results/table1_longitudinal_baseline.csv",
+    "source_sha256": "68d69a4008f85fb7e959b21e285a54d40f32418976fc2a003a2fe2dd8505dacc"
+  },
+  {
+    "file": "frozen_primary/primary/results/table2_followup_by_group.csv",
+    "stage_to": "analysis/pain_transition_diabetes_adl_20261029/results/table2_followup_by_group.csv",
+    "source_sha256": "efc3534e621eb19f980d5d702e30eaedddca646d6eecbf5bdacf959adfe1a68c"
+  },
+  {
+    "file": "frozen_primary/primary/results/table3_primary.csv",
+    "stage_to": "analysis/pain_transition_diabetes_adl_20261029/results/table3_primary.csv",
+    "source_sha256": "c3dabe2e340be4e9cbd1e2573d87245c702253b517991477acf29cfc6a00d0d6"
+  },
+  {
+    "file": "frozen_primary/primary/results/table4_primary_sensitivity.csv",
+    "stage_to": "analysis/pain_transition_diabetes_adl_20261029/results/table4_primary_sensitivity.csv",
+    "source_sha256": "2d047cf583d77fd02da1aa1b08dfcf493312051289a487a05674898606b5afe5"
+  },
+  {
+    "file": "frozen_primary/primary/results/table5_cross_sectional.csv",
+    "stage_to": "analysis/pain_transition_diabetes_adl_20261029/results/table5_cross_sectional.csv",
+    "source_sha256": "ecffd3c9e2f0c403a50e69dd8b84eca2288a4d7277b6136b5512205a318c9b26"
+  },
+  {
+    "file": "frozen_primary/primary/audit/sample_flow.csv",
+    "stage_to": "analysis/pain_transition_diabetes_adl_20261029/audit/sample_flow.csv",
+    "source_sha256": "ca845e4d586efdd6cc70467bb66227aacdd21b8c286282c099824ea2d6b43326"
+  },
+  {
+    "file": "frozen_primary/primary/audit/group_outcomes.csv",
+    "stage_to": "analysis/pain_transition_diabetes_adl_20261029/audit/group_outcomes.csv",
+    "source_sha256": "b589d95402f4d4b79f374e5b2ce531fbd2e6b48f34474332ddee498fb2b7c227"
+  },
+  {
+    "file": "frozen_primary/primary/audit/missingness.csv",
+    "stage_to": "analysis/pain_transition_diabetes_adl_20261029/audit/missingness.csv",
+    "source_sha256": "f4637e21fe7e90f81e6306ea70142897160d15055119aaf187411880350e17cb"
+  },
+  {
+    "file": "frozen_primary/primary/audit/timing.csv",
+    "stage_to": "analysis/pain_transition_diabetes_adl_20261029/audit/timing.csv",
+    "source_sha256": "574da8cb74e97d2ed00cfebc9a5c842e83e2bc7cbe3399a4906a56e621c12b7e"
+  },
+  {
+    "file": "frozen_primary/primary/audit/death_audit.csv",
+    "stage_to": "analysis/pain_transition_diabetes_adl_20261029/audit/death_audit.csv",
+    "source_sha256": "a7da2b93d9fb357083b16d552a0857608ad62231eeaffe3f93f89d0623013e91"
+  },
+  {
+    "file": "frozen_primary/primary/audit/baseline_categorical.csv",
+    "stage_to": "analysis/pain_transition_diabetes_adl_20261029/audit/baseline_categorical.csv",
+    "source_sha256": "e34c2f6c85a2e172b5355f591e0ecac6951f6f6edcd85e51820447401f9e5550"
+  },
+  {
+    "file": "frozen_primary/primary/audit/baseline_continuous.csv",
+    "stage_to": "analysis/pain_transition_diabetes_adl_20261029/audit/baseline_continuous.csv",
+    "source_sha256": "4d2c49075545cde28f974ffcf0909391f9182135d991eb904f794d948f78b124"
+  },
+  {
+    "file": "frozen_primary/primary/audit/followup_proxy_summary.csv",
+    "stage_to": "analysis/pain_transition_diabetes_adl_20261029/audit/followup_proxy_summary.csv",
+    "source_sha256": "a44026d9bcf12497113e41856a48092eece242ea14c2e8b750282d0f9fb4a175"
+  },
+  {
+    "file": "frozen_primary/primary/audit/extraction_checks.csv",
+    "stage_to": "analysis/pain_transition_diabetes_adl_20261029/audit/extraction_checks.csv",
+    "source_sha256": "7baf68a7d489d4f453fc3b9a2b991cd11ad633987becb73a5e84712f8e707bc1"
+  },
+  {
+    "file": "frozen_primary/primary/audit/independent_verification.csv",
+    "stage_to": "analysis/pain_transition_diabetes_adl_20261029/audit/independent_verification.csv",
+    "source_sha256": "d701683fdafd006754d9bb01a723a3d56b8fc1d50aea84f3b26f4b72f6fc2df2"
+  },
+  {
+    "file": "frozen_primary/primary/audit/verification_summary.json",
+    "stage_to": "analysis/pain_transition_diabetes_adl_20261029/audit/verification_summary.json",
+    "source_sha256": "d7ca541185b36c267f81bdc1fcbcc1b67125c8bfe9e597004669d78763307816"
+  },
+  {
+    "file": "frozen_primary/primary/audit/HRS_model_diagnostics.csv",
+    "stage_to": "analysis/pain_transition_diabetes_adl_20261029/audit/HRS_model_diagnostics.csv",
+    "source_sha256": "77b7517990e5fb53522d78a6b2f2ee3604251f086bfb171a1aed406fdcc00b26"
+  },
+  {
+    "file": "frozen_primary/primary/audit/ELSA_model_diagnostics.csv",
+    "stage_to": "analysis/pain_transition_diabetes_adl_20261029/audit/ELSA_model_diagnostics.csv",
+    "source_sha256": "1fb3cebe493bb29e701e352cb632f7b3adf9461ba1381bb3b05c5abf49297167"
+  },
+  {
+    "file": "frozen_primary/primary/audit/HRS_model_warnings.csv",
+    "stage_to": "analysis/pain_transition_diabetes_adl_20261029/audit/HRS_model_warnings.csv",
+    "source_sha256": "7943d4a597bf32cad673de386beca19d5e7a9a9ac785c98d55b222a1dd89fdfe"
+  },
+  {
+    "file": "frozen_primary/primary/audit/ELSA_model_warnings.csv",
+    "stage_to": "analysis/pain_transition_diabetes_adl_20261029/audit/ELSA_model_warnings.csv",
+    "source_sha256": "2e86f49cec5630aa638761f81e5e0f71b65b59f77da5436ebcf1b043543990c9"
+  },
+  {
+    "file": "frozen_primary/primary/audit/HRS_primary_unpooled_contrasts.csv",
+    "stage_to": "analysis/pain_transition_diabetes_adl_20261029/audit/HRS_primary_unpooled_contrasts.csv",
+    "source_sha256": "d4b575f3d33bc9f6f48443121aa7af9e7d7805643327a8619e47c283f982037d"
+  },
+  {
+    "file": "frozen_primary/primary/audit/ELSA_primary_unpooled_contrasts.csv",
+    "stage_to": "analysis/pain_transition_diabetes_adl_20261029/audit/ELSA_primary_unpooled_contrasts.csv",
+    "source_sha256": "1a5707e9bd3f8fcf5f41b80be644aa2a6dcbd86789bfcf0d2b73b252ab926409"
+  },
+  {
+    "file": "frozen_primary/primary/audit/HRS_weight_diagnostics.csv",
+    "stage_to": "analysis/pain_transition_diabetes_adl_20261029/audit/HRS_weight_diagnostics.csv",
+    "source_sha256": "e1ec48d9d05c94ebaf902d6b9619dd53a709d0209abccbd5fae93e97fec78318"
+  },
+  {
+    "file": "frozen_primary/primary/audit/ELSA_weight_diagnostics.csv",
+    "stage_to": "analysis/pain_transition_diabetes_adl_20261029/audit/ELSA_weight_diagnostics.csv",
+    "source_sha256": "de23d797f50f2fde4efcb7d07e435287f38a321d7551f89348710034c9c70f74"
+  },
+  {
+    "file": "frozen_primary/primary/audit/HRS_imputation_summary.csv",
+    "stage_to": "analysis/pain_transition_diabetes_adl_20261029/audit/HRS_imputation_summary.csv",
+    "source_sha256": "fa681de85d70f0f6503e8656655461b06fada7af573803995037a649d8c753cf"
+  },
+  {
+    "file": "frozen_primary/primary/audit/ELSA_imputation_summary.csv",
+    "stage_to": "analysis/pain_transition_diabetes_adl_20261029/audit/ELSA_imputation_summary.csv",
+    "source_sha256": "ae4b97a37356f2d7cdd484b46b1d39a1ea9db31cd060af3b25091321a178b819"
+  },
+  {
+    "file": "frozen_primary/primary/audit/HRS_longitudinal_mice_convergence.csv",
+    "stage_to": "analysis/pain_transition_diabetes_adl_20261029/audit/HRS_longitudinal_mice_convergence.csv",
+    "source_sha256": "9c99383d46fb3de4db25383255e0a03d3e182378d7f284103f94d1a8f6823564"
+  },
+  {
+    "file": "frozen_primary/primary/audit/ELSA_longitudinal_mice_convergence.csv",
+    "stage_to": "analysis/pain_transition_diabetes_adl_20261029/audit/ELSA_longitudinal_mice_convergence.csv",
+    "source_sha256": "d79ab92d0e5a50ad0ef186e84f7fe33bd76a23f1bd2d1fe801d5d5b7ec675696"
+  },
+  {
+    "file": "frozen_primary/primary/audit/HRS_cross_sectional_mice_convergence.csv",
+    "stage_to": "analysis/pain_transition_diabetes_adl_20261029/audit/HRS_cross_sectional_mice_convergence.csv",
+    "source_sha256": "1cd05eb5ec0353f1e813b5aaabb75ff174272b0a22a6b4546d01d39ffdd610e1"
+  },
+  {
+    "file": "frozen_primary/primary/audit/ELSA_cross_sectional_mice_convergence.csv",
+    "stage_to": "analysis/pain_transition_diabetes_adl_20261029/audit/ELSA_cross_sectional_mice_convergence.csv",
+    "source_sha256": "5b8db33c71168395b567bf94a387e96c88f65f5e745075555e819117c401eed4"
+  },
+  {
+    "file": "frozen_primary/revision/results/ELSA_complete_case_audit.csv",
+    "stage_to": "analysis/pain_transition_diabetes_adl_20261029/revision_20261029/results/ELSA_complete_case_audit.csv",
+    "source_sha256": "b8cdb3bf9453c2454ef8b769d734687605347ed55649849a11ad1a010484b5b9"
+  },
+  {
+    "file": "frozen_primary/revision/results/ELSA_history_joint.csv",
+    "stage_to": "analysis/pain_transition_diabetes_adl_20261029/revision_20261029/results/ELSA_history_joint.csv",
+    "source_sha256": "91cd2ded78dc96ff1b815aa8cff8e21a168fcb600b731f775d65b2951dff6dd4"
+  },
+  {
+    "file": "frozen_primary/revision/results/ELSA_history_joint_complete_case.csv",
+    "stage_to": "analysis/pain_transition_diabetes_adl_20261029/revision_20261029/results/ELSA_history_joint_complete_case.csv",
+    "source_sha256": "cb52731ffb2ff64e9ef38804b597d00be80c46e5cc5fb10c06eadcf5a03437d9"
+  },
+  {
+    "file": "frozen_primary/revision/results/ELSA_revision_contrasts.csv",
+    "stage_to": "analysis/pain_transition_diabetes_adl_20261029/revision_20261029/results/ELSA_revision_contrasts.csv",
+    "source_sha256": "21b5141887759580851c60a5dd16a2254970fa060df20d52da3f03a642c38773"
+  },
+  {
+    "file": "frozen_primary/revision/results/HRS_complete_case_audit.csv",
+    "stage_to": "analysis/pain_transition_diabetes_adl_20261029/revision_20261029/results/HRS_complete_case_audit.csv",
+    "source_sha256": "c7e706f7aeb8dcda03d407e7fc17d94615c1ea3c715a78890ad4cf4e306e6af4"
+  },
+  {
+    "file": "frozen_primary/revision/results/HRS_history_joint.csv",
+    "stage_to": "analysis/pain_transition_diabetes_adl_20261029/revision_20261029/results/HRS_history_joint.csv",
+    "source_sha256": "30b72db694c026f810847d344543afc7e85712042f799d192a17171bd1906c7d"
+  },
+  {
+    "file": "frozen_primary/revision/results/HRS_history_joint_complete_case.csv",
+    "stage_to": "analysis/pain_transition_diabetes_adl_20261029/revision_20261029/results/HRS_history_joint_complete_case.csv",
+    "source_sha256": "5a1e69f5608dd42eeb1c513f0c34ce0538f4bd4796b544eb9fa517522c336c24"
+  },
+  {
+    "file": "frozen_primary/revision/results/HRS_revision_contrasts.csv",
+    "stage_to": "analysis/pain_transition_diabetes_adl_20261029/revision_20261029/results/HRS_revision_contrasts.csv",
+    "source_sha256": "10e4f27504e6370b20b11969b47dcb15778c965da271fba91e8cdaa3ff81c837"
+  },
+  {
+    "file": "frozen_primary/revision/results/mi_posthoc_joint_audit.csv",
+    "stage_to": "analysis/pain_transition_diabetes_adl_20261029/revision_20261029/results/mi_posthoc_joint_audit.csv",
+    "source_sha256": "8a2ae94be73ed3c95e691a9bd0a3b7e8216360b74797a8d46dd4b4736b218701"
+  },
+  {
+    "file": "frozen_primary/revision/results/mi_posthoc_upgrade_audit.csv",
+    "stage_to": "analysis/pain_transition_diabetes_adl_20261029/revision_20261029/results/mi_posthoc_upgrade_audit.csv",
+    "source_sha256": "71c84c74b0bb6507b7aed0726d3e08bceac64768471c39ef77e94e2ad3a24e46"
+  },
+  {
+    "file": "frozen_primary/revision/audit/attrition_by_pattern.csv",
+    "stage_to": "analysis/pain_transition_diabetes_adl_20261029/revision_20261029/audit/attrition_by_pattern.csv",
+    "source_sha256": "2c3ebeb23217c324c8d06620662456348828ee92f59b9add260a8ffcd8904aae"
+  },
+  {
+    "file": "frozen_primary/revision/audit/attrition_group_checks.csv",
+    "stage_to": "analysis/pain_transition_diabetes_adl_20261029/revision_20261029/audit/attrition_group_checks.csv",
+    "source_sha256": "9c47a31f8c93a2900570d222382f58b9f2327de1c737bbafe2b2e9d48d5168d0"
+  },
+  {
+    "file": "frozen_primary/revision/audit/attrition_reasons.csv",
+    "stage_to": "analysis/pain_transition_diabetes_adl_20261029/revision_20261029/audit/attrition_reasons.csv",
+    "source_sha256": "ca3977eedd94160a0bcdee148406f1fa3a670900ea8fe62f2bcfd7a8301f8762"
+  },
+  {
+    "file": "frozen_primary/revision/audit/new_variable_audit.csv",
+    "stage_to": "analysis/pain_transition_diabetes_adl_20261029/revision_20261029/audit/new_variable_audit.csv",
+    "source_sha256": "3e332f4b37fc0f1dec2f9e6eb3081e6fefb741be79f6c718761f3aa5345a0f86"
+  },
+  {
+    "file": "frozen_primary/revision/audit/new_variable_cells.csv",
+    "stage_to": "analysis/pain_transition_diabetes_adl_20261029/revision_20261029/audit/new_variable_cells.csv",
+    "source_sha256": "052fa84230eb31adcc6e7a3e29215c3320e154af51d22cebc5eca1a141cd4ea0"
+  },
+  {
+    "file": "frozen_primary/revision/audit/proxy_by_exposure.csv",
+    "stage_to": "analysis/pain_transition_diabetes_adl_20261029/revision_20261029/audit/proxy_by_exposure.csv",
+    "source_sha256": "6ebe1093917842c8e79a9a9c7890159210ccb136a820f2757ce509700c34eb2a"
+  },
+  {
+    "file": "frozen_primary/revision/audit/HRS_revision_imputation_summary.csv",
+    "stage_to": "analysis/pain_transition_diabetes_adl_20261029/revision_20261029/audit/HRS_revision_imputation_summary.csv",
+    "source_sha256": "e199bf239e9a8cbfd4d62bdc8aee1d9d51101f2385943b1be1c7f9b8b4b59452"
+  },
+  {
+    "file": "frozen_primary/revision/audit/ELSA_revision_imputation_summary.csv",
+    "stage_to": "analysis/pain_transition_diabetes_adl_20261029/revision_20261029/audit/ELSA_revision_imputation_summary.csv",
+    "source_sha256": "a4c98e785a49588ab738ab5e48b0735013fdc5ab1c80e83ee14fe7af95fbf1a9"
+  },
+  {
+    "file": "frozen_primary/revision/audit/HRS_revision_model_diagnostics.csv",
+    "stage_to": "analysis/pain_transition_diabetes_adl_20261029/revision_20261029/audit/HRS_revision_model_diagnostics.csv",
+    "source_sha256": "d8d2c9f8ea5ce2c5b8b9997364dd1702b050aee4eb6fbcde78cb3892e4fc11d2"
+  },
+  {
+    "file": "frozen_primary/revision/audit/ELSA_revision_model_diagnostics.csv",
+    "stage_to": "analysis/pain_transition_diabetes_adl_20261029/revision_20261029/audit/ELSA_revision_model_diagnostics.csv",
+    "source_sha256": "b6d726d0148dd177996b036d0f16095f8a58c4015ed998328b9193bd58525b6d"
+  },
+  {
+    "file": "frozen_primary/revision/audit/HRS_revision_mice_convergence.csv",
+    "stage_to": "analysis/pain_transition_diabetes_adl_20261029/revision_20261029/audit/HRS_revision_mice_convergence.csv",
+    "source_sha256": "4f77415c83f61892d61da6fd93d9696a70a5c9871013f28d133c2bd85a4ebc38"
+  },
+  {
+    "file": "frozen_primary/revision/audit/ELSA_revision_mice_convergence.csv",
+    "stage_to": "analysis/pain_transition_diabetes_adl_20261029/revision_20261029/audit/ELSA_revision_mice_convergence.csv",
+    "source_sha256": "b5e04a42bd3e7933dd1686609cb29d44c11db98c55ef1725c15379befe431f9c"
+  },
+  {
+    "file": "frozen_primary/revision/audit/independent_rubin_checks.csv",
+    "stage_to": "analysis/pain_transition_diabetes_adl_20261029/revision_20261029/audit/independent_rubin_checks.csv",
+    "source_sha256": "4db1636366bdac18ef2ebb75e9b0fc2ecf42c1e1a6d6608c5e6588826bb505bc"
+  },
+  {
+    "file": "frozen_primary/revision/audit/mi_posthoc_upgrade_report.json",
+    "stage_to": "analysis/pain_transition_diabetes_adl_20261029/revision_20261029/audit/mi_posthoc_upgrade_report.json",
+    "source_sha256": "3c718d15fa4fb5dab1d0d49ee1661d9bd8191216bcfd46d052fff90d57f7dfd7"
+  },
+  {
+    "file": "frozen_external/external/results/CHARLS_estimates.csv",
+    "stage_to": "analysis/pain_external_replication_20261030/results/CHARLS_estimates.csv",
+    "source_sha256": "3b21977d0431fe29d807169c1bca51de689353e9c0a93dbc27186988a50b319a"
+  },
+  {
+    "file": "frozen_external/external/results/CHARLS_first_imputation_coefficients.csv",
+    "stage_to": "analysis/pain_external_replication_20261030/results/CHARLS_first_imputation_coefficients.csv",
+    "source_sha256": "e0310ca09bc3c6b21d834155fe803d5b365c36a936fdb98861f7212f478189f2"
+  },
+  {
+    "file": "frozen_external/external/results/four_cohort_group_counts.csv",
+    "stage_to": "analysis/pain_external_replication_20261030/results/four_cohort_group_counts.csv",
+    "source_sha256": "899691e3574644b2db2e1d67b1c1cecde3087914e688cf5b3f825b7dffd44538"
+  },
+  {
+    "file": "frozen_external/external/results/four_cohort_primary_comparison.csv",
+    "stage_to": "analysis/pain_external_replication_20261030/results/four_cohort_primary_comparison.csv",
+    "source_sha256": "5806602e20a488aa598cab380099698cef0fb107e11dbe2845ceb8f8dd5799bf"
+  },
+  {
+    "file": "frozen_external/external/results/SHARE_estimates.csv",
+    "stage_to": "analysis/pain_external_replication_20261030/results/SHARE_estimates.csv",
+    "source_sha256": "2b04dd4ba333bf56f0e4cacbef94513d25e4c37f98c6bfa3600d9deeac8d2f72"
+  },
+  {
+    "file": "frozen_external/external/results/SHARE_first_imputation_coefficients.csv",
+    "stage_to": "analysis/pain_external_replication_20261030/results/SHARE_first_imputation_coefficients.csv",
+    "source_sha256": "9dc086dd768cf28bc4a55f92bd96659ff0fd2cd00a04e95490979c28ae763d28"
+  },
+  {
+    "file": "frozen_external/external/audit/covariate_missingness.csv",
+    "stage_to": "analysis/pain_external_replication_20261030/audit/covariate_missingness.csv",
+    "source_sha256": "2e8718c3b055b2d48a823e8bcdcacdb4af51656c5a77d1ae7177afe7a8431239"
+  },
+  {
+    "file": "frozen_external/external/audit/extraction_checks.csv",
+    "stage_to": "analysis/pain_external_replication_20261030/audit/extraction_checks.csv",
+    "source_sha256": "df0deadee2c3a836a849e9052eb202937d048042c6b413471246a7af4263f185"
+  },
+  {
+    "file": "frozen_external/external/audit/group_counts.csv",
+    "stage_to": "analysis/pain_external_replication_20261030/audit/group_counts.csv",
+    "source_sha256": "dda83d0ca201d0a56b1363064eb8d4f78af3a3725317f6feac84001c3adea273"
+  },
+  {
+    "file": "frozen_external/external/audit/sample_flow.csv",
+    "stage_to": "analysis/pain_external_replication_20261030/audit/sample_flow.csv",
+    "source_sha256": "97aea8ed50be0a9fdc856e9be13e0af77cb18af11a37094ad3c82b9f39d45edc"
+  },
+  {
+    "file": "frozen_external/external/audit/SHARE_countries.csv",
+    "stage_to": "analysis/pain_external_replication_20261030/audit/SHARE_countries.csv",
+    "source_sha256": "a17c7ab791e2bd325e7cca7b15462a733ef48606aeca043ca00cd89880fc8486"
+  },
+  {
+    "file": "frozen_external/external/audit/SHARE_wave_availability.csv",
+    "stage_to": "analysis/pain_external_replication_20261030/audit/SHARE_wave_availability.csv",
+    "source_sha256": "323ca3bb4ed00eb9874c5d926b38c76c54df4c13d669b34e3662074af4b9d92b"
+  },
+  {
+    "file": "frozen_external/external/audit/SHARE_mice_convergence.csv",
+    "stage_to": "analysis/pain_external_replication_20261030/audit/SHARE_mice_convergence.csv",
+    "source_sha256": "c26fac83e8475b513af42dc7d7dcbe4f8013dbd46e11e8b1efef3d4f943c8224"
+  },
+  {
+    "file": "frozen_external/external/audit/CHARLS_mice_convergence.csv",
+    "stage_to": "analysis/pain_external_replication_20261030/audit/CHARLS_mice_convergence.csv",
+    "source_sha256": "befd6a7044908cc96c21d241d12dbe5cd14159d5f69edb16e8766f845d66a53f"
+  },
+  {
+    "file": "frozen_external/external/audit/SHARE_model_diagnostics.csv",
+    "stage_to": "analysis/pain_external_replication_20261030/audit/SHARE_model_diagnostics.csv",
+    "source_sha256": "2f969ce631ef090408e2f6df55ac80c35c9852be6f67bcd478bdf48f1a705306"
+  },
+  {
+    "file": "frozen_external/external/audit/CHARLS_model_diagnostics.csv",
+    "stage_to": "analysis/pain_external_replication_20261030/audit/CHARLS_model_diagnostics.csv",
+    "source_sha256": "647a6110425d789e10d6cd56f132d8d7868ba65c657381ca4f31a3079e290b60"
+  },
+  {
+    "file": "frozen_external/external/audit/independent_model_verification.json",
+    "stage_to": "analysis/pain_external_replication_20261030/audit/independent_model_verification.json",
+    "source_sha256": "87412920367b0565ee29f417eece47b29747026a37cd6de049a68e7ae1faf495"
+  },
+  {
+    "file": "frozen_external/external/audit/verified_pain_question_wording.json",
+    "stage_to": "analysis/pain_external_replication_20261030/audit/verified_pain_question_wording.json",
+    "source_sha256": "f18da13eb4018a1785e316594a37051ab7ff3a369e12d8066205dc0b6dffd143"
+  },
+  {
+    "file": "frozen_external/meta/results/cohort_weights.csv",
+    "stage_to": "analysis/pain_external_replication_20261030/meta_analysis/results/cohort_weights.csv",
+    "source_sha256": "8f9737926cc84dae4d471c83318c9eea82750b2b0ac336eb78c00757d8b7249c"
+  },
+  {
+    "file": "frozen_external/meta/results/meta_estimates.csv",
+    "stage_to": "analysis/pain_external_replication_20261030/meta_analysis/results/meta_estimates.csv",
+    "source_sha256": "2384fbab993a8321a50d26e3050fc3a705fc97a7ce643c933b6c13619614b0cd"
+  },
+  {
+    "file": "frozen_external/meta/results/meta_inputs.csv",
+    "stage_to": "analysis/pain_external_replication_20261030/meta_analysis/results/meta_inputs.csv",
+    "source_sha256": "e20a8fea0a8af84facf5fba203ca6fcd76d5ffa4ec3b922e8991a4f0eeea5865"
+  },
+  {
+    "file": "frozen_additional/additional/results/context_verification_coefficients.csv",
+    "stage_to": "analysis/pain_external_replication_20261030/additional_20261030/results/context_verification_coefficients.csv",
+    "source_sha256": "7a117d32d09bb8b632372636c98eee26e93ef19b3a5b9c5f8ec8b528540e78be"
+  },
+  {
+    "file": "frozen_additional/additional/results/primary_and_function_contrasts.csv",
+    "stage_to": "analysis/pain_external_replication_20261030/additional_20261030/results/primary_and_function_contrasts.csv",
+    "source_sha256": "885f5629a5aa0a49a2e02eb9b35098d285501584d390969319c7a732f23f52ae"
+  },
+  {
+    "file": "frozen_additional/additional/results/SHARE_additional_contrasts.csv",
+    "stage_to": "analysis/pain_external_replication_20261030/additional_20261030/results/SHARE_additional_contrasts.csv",
+    "source_sha256": "84c228ab6bf89d91878fb150261ddc600d46bae7c8d3d3a621099b50a7137e64"
+  },
+  {
+    "file": "frozen_additional/additional/results/SHARE_history_joint.csv",
+    "stage_to": "analysis/pain_external_replication_20261030/additional_20261030/results/SHARE_history_joint.csv",
+    "source_sha256": "fe30233d6e2bdb317b6a1b35f8f38cff6996cbc8435c474edc6f9d6421dec9b0"
+  },
+  {
+    "file": "frozen_additional/additional/results/SHARE_scalar_inputs.csv",
+    "stage_to": "analysis/pain_external_replication_20261030/additional_20261030/results/SHARE_scalar_inputs.csv",
+    "source_sha256": "d27552e5d6f55550a17c2576d9ec768f71c892682da8c3ee00c5e91fdf81b854"
+  },
+  {
+    "file": "frozen_additional/additional/results/standardization_scalar_inputs.csv",
+    "stage_to": "analysis/pain_external_replication_20261030/additional_20261030/results/standardization_scalar_inputs.csv",
+    "source_sha256": "260bf360a372b3e056a587d69c743cd9a5a477691d8768f1b76d93e0a247afa1"
+  },
+  {
+    "file": "frozen_additional/additional/results/standardized_net_risks.csv",
+    "stage_to": "analysis/pain_external_replication_20261030/additional_20261030/results/standardized_net_risks.csv",
+    "source_sha256": "b75e2200bac6ef4b95aec3ee8ac1fbedeea7952145022bc0d201d04338d72518"
+  },
+  {
+    "file": "frozen_additional/additional/results/three_cohort_meta.csv",
+    "stage_to": "analysis/pain_external_replication_20261030/additional_20261030/results/three_cohort_meta.csv",
+    "source_sha256": "211550402f16ec1bef7ac7aecbdba3d69471518c018e084b38c83d04fd4da8f6"
+  },
+  {
+    "file": "frozen_additional/additional/results/three_cohort_meta_inputs.csv",
+    "stage_to": "analysis/pain_external_replication_20261030/additional_20261030/results/three_cohort_meta_inputs.csv",
+    "source_sha256": "be0ce96b1af33f6e42dc8856930d55498d64ac1e065437dadea63b6a1b181a28"
+  },
+  {
+    "file": "frozen_additional/additional/audit/SHARE_extra_missingness.csv",
+    "stage_to": "analysis/pain_external_replication_20261030/additional_20261030/audit/SHARE_extra_missingness.csv",
+    "source_sha256": "309a6d44d841d2739d6b6bef48747e85516efeaa69d8c7addb7d48f1730574a7"
+  },
+  {
+    "file": "frozen_additional/additional/audit/SHARE_diagnosis_provenance.csv",
+    "stage_to": "analysis/pain_external_replication_20261030/additional_20261030/audit/SHARE_diagnosis_provenance.csv",
+    "source_sha256": "5d39339e1acdad5baa973dc70b5665196cefa1253d22a6c524d9c09f40e73dcd"
+  },
+  {
+    "file": "frozen_additional/additional/audit/SHARE_death_proxy_audit.csv",
+    "stage_to": "analysis/pain_external_replication_20261030/additional_20261030/audit/SHARE_death_proxy_audit.csv",
+    "source_sha256": "09c6a7e833200f5471895443d365d748cca343f856eca6d4ec19228e829641cb"
+  },
+  {
+    "file": "frozen_additional/additional/audit/SHARE_weight_diagnostics.csv",
+    "stage_to": "analysis/pain_external_replication_20261030/additional_20261030/audit/SHARE_weight_diagnostics.csv",
+    "source_sha256": "f13bbe63331ff056e71102213850432ad9219cd60fa07268ed246fb8108ccf27"
+  },
+  {
+    "file": "frozen_additional/additional/audit/SHARE_extended_mice_convergence.csv",
+    "stage_to": "analysis/pain_external_replication_20261030/additional_20261030/audit/SHARE_extended_mice_convergence.csv",
+    "source_sha256": "cedf0e65d302ba728b7da816e3bdd5a7c482dcde25d0744dd9d0dd5a4f6ab486"
+  },
+  {
+    "file": "frozen_additional/additional/audit/SHARE_imputation_methods.csv",
+    "stage_to": "analysis/pain_external_replication_20261030/additional_20261030/audit/SHARE_imputation_methods.csv",
+    "source_sha256": "c5189396455727976c06c0129e9ca74647cf43046d7894bce463a9aeae78ecc8"
+  },
+  {
+    "file": "frozen_additional/additional/audit/SHARE_model_diagnostics.csv",
+    "stage_to": "analysis/pain_external_replication_20261030/additional_20261030/audit/SHARE_model_diagnostics.csv",
+    "source_sha256": "a00e44b96d4b480d34d4f127276b3ca244f1751086524e36e3dd8705f16dcbe4"
+  },
+  {
+    "file": "frozen_additional/additional/audit/function_model_diagnostics.csv",
+    "stage_to": "analysis/pain_external_replication_20261030/additional_20261030/audit/function_model_diagnostics.csv",
+    "source_sha256": "387bc6687c3b980c0d38968bf8545120f3df333ccae44469b0e55b9265ddd245"
+  },
+  {
+    "file": "frozen_additional/additional/audit/followup_support.csv",
+    "stage_to": "analysis/pain_external_replication_20261030/additional_20261030/audit/followup_support.csv",
+    "source_sha256": "ea5ff9629dbb820514ce079185e20c6b313ed8a586765b858b8471916c84e5f6"
+  },
+  {
+    "file": "frozen_additional/additional/audit/standardization_gradient_checks.csv",
+    "stage_to": "analysis/pain_external_replication_20261030/additional_20261030/audit/standardization_gradient_checks.csv",
+    "source_sha256": "8588abf0b7062b1040f7526ace77b7c6390f1fc2c1eca8146298b167099c370e"
+  },
+  {
+    "file": "frozen_additional/additional/audit/independent_verification.json",
+    "stage_to": "analysis/pain_external_replication_20261030/additional_20261030/audit/independent_verification.json",
+    "source_sha256": "eda4eea8e1a01dd4e330a3b336fccefbb2c1c52201bcd3553e013a9013df714a"
+  }
+]

@@ -1,0 +1,77 @@
+{
+  "checks": [
+    {
+      "dataset": "analysis/pain_transition_diabetes_adl_20261029/data_private/HRS_longitudinal.csv",
+      "rows": 2993,
+      "columns": 23,
+      "all_values_exactly_equal": true
+    },
+    {
+      "dataset": "analysis/pain_transition_diabetes_adl_20261029/data_private/HRS_cross_sectional.csv",
+      "rows": 4895,
+      "columns": 13,
+      "all_values_exactly_equal": true
+    },
+    {
+      "dataset": "analysis/pain_transition_diabetes_adl_20261029/data_private/ELSA_longitudinal.csv",
+      "rows": 643,
+      "columns": 22,
+      "all_values_exactly_equal": true
+    },
+    {
+      "dataset": "analysis/pain_transition_diabetes_adl_20261029/data_private/ELSA_cross_sectional.csv",
+      "rows": 1249,
+      "columns": 13,
+      "all_values_exactly_equal": true
+    },
+    {
+      "dataset": "analysis/pain_transition_diabetes_adl_20261029/revision_20261029/data_private/HRS_longitudinal.csv",
+      "rows": 2993,
+      "columns": 29,
+      "all_values_exactly_equal": true
+    },
+    {
+      "dataset": "analysis/pain_transition_diabetes_adl_20261029/revision_20261029/data_private/HRS_cross_sectional.csv",
+      "rows": 4895,
+      "columns": 16,
+      "all_values_exactly_equal": true
+    },
+    {
+      "dataset": "analysis/pain_transition_diabetes_adl_20261029/revision_20261029/data_private/ELSA_longitudinal.csv",
+      "rows": 643,
+      "columns": 26,
+      "all_values_exactly_equal": true
+    },
+    {
+      "dataset": "analysis/pain_transition_diabetes_adl_20261029/revision_20261029/data_private/ELSA_cross_sectional.csv",
+      "rows": 1249,
+      "columns": 14,
+      "all_values_exactly_equal": true
+    },
+    {
+      "dataset": "analysis/pain_external_replication_20261030/data_private/CHARLS_longitudinal.csv",
+      "rows": 427,
+      "columns": 17,
+      "all_values_exactly_equal": true
+    },
+    {
+      "dataset": "analysis/pain_external_replication_20261030/data_private/SHARE_primary_longitudinal.csv",
+      "rows": 4215,
+      "columns": 19,
+      "all_values_exactly_equal": true
+    },
+    {
+      "dataset": "analysis/pain_external_replication_20261030/data_private/SHARE_longitudinal.csv",
+      "rows": 4839,
+      "columns": 19,
+      "all_values_exactly_equal": true
+    },
+    {
+      "dataset": "analysis/pain_external_replication_20261030/additional_20261030/data_private/SHARE_extended.csv",
+      "rows": 4215,
+      "columns": 29,
+      "all_values_exactly_equal": true
+    }
+  ],
+  "all_passed": true
+}
