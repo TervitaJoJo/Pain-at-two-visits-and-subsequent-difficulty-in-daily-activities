@@ -1,0 +1,8 @@
+{
+  "audit_date": "2026-10-30",
+  "all_contrast_rows_pass": true,
+  "all_joint_tests_pass": true,
+  "rows": 22,
+  "joint_rows": 2,
+  "note": "Technical MI success does not retroactively establish prespecification; frozen plan records author-side post-primary analyses."
+}

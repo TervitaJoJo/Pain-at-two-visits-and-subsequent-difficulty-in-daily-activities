@@ -1,0 +1,2 @@
+"cohort","hypothesis","F","df1","df2","p","riv","method"
+"HRS","beta10=0; beta11-beta01=0",7.70984907882482,2,2633.99807536162,0.000458582825055995,0.000208416314325101,"mitml D1 with participant-clustered robust within-imputation covariance"

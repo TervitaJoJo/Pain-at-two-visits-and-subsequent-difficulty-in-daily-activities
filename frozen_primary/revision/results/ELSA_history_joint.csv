@@ -1,0 +1,2 @@
+"cohort","hypothesis","F","df1","df2","p","riv","method"
+"ELSA","beta10=0; beta11-beta01=0",0.602958384661944,2,527.991462279068,0.547566774690069,0.00194956950318739,"mitml D1 with participant-clustered robust within-imputation covariance"

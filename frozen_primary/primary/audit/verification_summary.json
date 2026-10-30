@@ -1,0 +1,7 @@
+{
+  "timestamp": "2026-10-29T14:35:11.605491+08:00",
+  "checks": 55,
+  "passed": true,
+  "Python": "3.14.5 (tags/v3.14.5:5607950, May 10 2026, 10:43:50) [MSC v.1944 64 bit (AMD64)]",
+  "statsmodels": "0.14.6"
+}

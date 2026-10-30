@@ -1,0 +1,31 @@
+{
+  "date": "2026-10-30",
+  "analysis_status": "exploratory",
+  "source_script_01_02_03_byte_identical": true,
+  "files": {
+    "analysis_plan_locked.md": "4f9331b154a30514492b6afa84056ab0ee9e892c10c7ac3f1f670a4fc8858721",
+    "prediction_report.md": "e62d582b2672bc97b0f2aa1beca048b87c66b075670bd865253b4538eb0db41c",
+    "README.md": "c0b00411f45eef996681f766bdd193110a4cb10b94b58b6f316ac1a708f45b35",
+    "audit/bootstrap_first_run_sha256.txt": "3bb13b136137e09745a1cf1814e3a27b8e2367c9110b9d6f202117e8c508df28",
+    "audit/bootstrap_warning_details.csv": "6544b94fb14567dea28b4d0d08d91841326411895d38cd24593b2e7d182ed02a",
+    "audit/independent_python_checks.csv": "1f4aad5c7b7a30f1258d78b86ff945a70fbf527bbab01f3370b13c3dc5ba3b25",
+    "audit/numerical_and_leakage_checks.csv": "c67137e1efc9711f0e5979cc31558c3316e511af2ccb724fd93f6492b1df973c",
+    "audit/plan_lock.json": "0ecf7940fee50c0f670c260c9a13eb430c5ff78026f77972258ffa320c4afd13",
+    "audit/R_session.txt": "82dbcdf3234e6157aad4e24b46b663320929e0a07af83ffb10b07d422a14e989",
+    "code/01_prediction.R": "5fc55afd7b1bd0c43d6644c6781e890c8bbb61032a08b4c3fc1e62c4c260731d",
+    "code/02_validate.R": "7145325aec04dac8c6ed70a378f865a544ec8eda95718971630c7286b00b204e",
+    "code/03_summarize.py": "f9b78524b4ea95c6c5aed284c2eb844c7efef99e15535e3ed8853097421a4b0c",
+    "code/04_summary_only.py": "6046fc419ddeafd38382d5726af96248e2dc0e5755f7f3af47fac1842654f2a5",
+    "results/calibration_groups.csv": "c3416b4e01c0dbb1a88bb14c23ceff2fe7d79818d2009a47bcc6c1947260335b",
+    "results/conditional_bootstrap.csv": "1d4641735b016568e07884e51f342d4e31869ea51398b16e7651d1e0c228b44f",
+    "results/cv_increment_summary.csv": "915a1bc380691a65d5fa10e06431c0854a22bafe89b90b8267c4f13d9094216b",
+    "results/external_increment_summary.csv": "36e675c03d1c38c13a5650b174ac144ed4d4b2afd2514ed87db76bdd1d998d0f",
+    "results/frozen_HRS_coefficients.csv": "24b3821e75a46cab2338dfd03ff94fdc8b3e01a7ea131ba615e6be6aa4e83aaa",
+    "results/frozen_HRS_imputation.json": "167f4040503816da469e8eed1a6ef3ebdb3d05a6305eaa1dd47a21b3eb1bb9ab",
+    "results/observation_weights.csv": "b1b358d4b5234133c62191874d79d1c4cb90b3e51b06db9ae759c632d9f8cf6c",
+    "results/paired_increment_all.csv": "26e6943b3e902f2b8ff7fcec4e699a647078f292cd49b27cf7fbd7e3fc52b311",
+    "results/performance_all.csv": "ef4245030444b47e828fbbd6f6613db1203ea5e933e73b51831be2ca48c0059c",
+    "results/sample_description.csv": "a39140cd55cb2deab5857d45d27f2ec8290d891538a624bba8bd91c2b2696944",
+    "results/two_sample_bootstrap.csv": "4e1b5d15829d6f1279db12afa712f8fd20f4fd290a3b031f06d8e97edd6a1907"
+  }
+}

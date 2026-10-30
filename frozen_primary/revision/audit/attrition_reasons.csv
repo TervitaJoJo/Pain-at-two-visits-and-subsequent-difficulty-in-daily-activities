@@ -1,0 +1,17 @@
+cohort,interval,reason,n
+HRS,1,missing_total,343
+HRS,1,death_recorded,173
+HRS,1,interview_without_valid_outcome_or_time,2
+HRS,1,other_noninterview_or_unknown,168
+HRS,2,missing_total,286
+HRS,2,death_recorded,124
+HRS,2,interview_without_valid_outcome_or_time,1
+HRS,2,other_noninterview_or_unknown,161
+ELSA,1,missing_total,99
+ELSA,1,death_not_separately_available,0
+ELSA,1,interview_without_valid_outcome_or_time,0
+ELSA,1,other_noninterview_or_unknown,99
+ELSA,2,missing_total,67
+ELSA,2,death_not_separately_available,0
+ELSA,2,interview_without_valid_outcome_or_time,0
+ELSA,2,other_noninterview_or_unknown,67

@@ -1,0 +1,15 @@
+cohort,interval,variable,group_sum,original_total,passed
+HRS,1,missing_total,343,343,True
+HRS,1,invalid_outcome_time,2,2,True
+HRS,1,other_unknown,168,168,True
+HRS,1,death_recorded,173,173,True
+HRS,2,missing_total,286,286,True
+HRS,2,invalid_outcome_time,1,1,True
+HRS,2,other_unknown,161,161,True
+HRS,2,death_recorded,124,124,True
+ELSA,1,missing_total,99,99,True
+ELSA,1,invalid_outcome_time,0,0,True
+ELSA,1,other_unknown,99,99,True
+ELSA,2,missing_total,67,67,True
+ELSA,2,invalid_outcome_time,0,0,True
+ELSA,2,other_unknown,67,67,True

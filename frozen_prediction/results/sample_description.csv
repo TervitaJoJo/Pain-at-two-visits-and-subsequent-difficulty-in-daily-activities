@@ -1,0 +1,4 @@
+"cohort","eligible","first_observed","second_at_risk","second_observed","events1","events2","known_endpoint2","missing_covariate","median_t1","median_t2"
+"HRS",2993,2650,2352,2066,298,510,2364,69,1.91666666666667,4.08333333333333
+"ELSA",643,544,482,415,62,99,477,53,2,4.08333333333333
+"SHARE",4215,3429,3111,1865,318,507,2183,127,2.08333333333333,4.66666666666667

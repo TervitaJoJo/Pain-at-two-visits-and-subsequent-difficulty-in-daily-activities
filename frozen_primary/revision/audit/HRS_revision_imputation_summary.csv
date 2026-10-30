@@ -1,0 +1,8 @@
+"cohort","variable","method","missing","imputed_min","imputed_max","imputed_mean","imputed_sd"
+"HRS","smoking","logreg",18,0,1,0.0855555555555556,0.279862158630629
+"HRS","cesd","pmm",26,0,8,1.39846153846154,1.72906969319005
+"HRS","function3","pmm",26,0,3,0.756153846153846,0.786579487166477
+"HRS","diabetes_treatment","polyreg",129,0,2,0.932403100775194,0.594924487043715
+"HRS","landmark_function3","pmm",42,0,3,0.71952380952381,0.785104152125906
+"HRS","bmi","pmm",46,16.3,63.1,31.808652173913,6.13624695340912
+"HRS","diabetes_duration","duration_pmm",571,0,81,10.0803852889667,10.3083778663395

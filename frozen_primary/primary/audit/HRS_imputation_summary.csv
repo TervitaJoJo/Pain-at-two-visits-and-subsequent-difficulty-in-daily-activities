@@ -1,0 +1,7 @@
+"cohort","sample","variable","method","missing","imputed_mean","imputed_sd","imputed_min","imputed_max","logged_events"
+"HRS","longitudinal","smoking","logreg",18,0.0911111111111111,0.287927056500917,0,1,0
+"HRS","longitudinal","cesd","pmm",26,1.45384615384615,1.86004353364642,0,8,0
+"HRS","longitudinal","function3","pmm",26,0.707692307692308,0.798826639960515,0,3,0
+"HRS","cross_sectional","smoking","logreg",31,0.0980645161290323,0.297497843326605,0,1,0
+"HRS","cross_sectional","cesd","pmm",58,2.16206896551724,2.30330593027046,0,8,0
+"HRS","cross_sectional","function3","pmm",89,1.37910112359551,1.02535362543983,0,3,0

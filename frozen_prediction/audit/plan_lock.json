@@ -1,0 +1,21 @@
+{
+  "created_local": "2026-10-30T19:12:10.728169+08:00",
+  "plan_sha256": "4f9331b154a30514492b6afa84056ab0ee9e892c10c7ac3f1f670a4fc8858721",
+  "inputs": {
+    "HRS": {
+      "relative_path": "pain_transition_diabetes_adl_20261029/data_private/HRS_longitudinal.csv",
+      "sha256": "962cc29daf70c403b7864caa7c3f58ed64b840d02a723d7ee1018c37bdfae438"
+    },
+    "ELSA": {
+      "relative_path": "pain_transition_diabetes_adl_20261029/data_private/ELSA_longitudinal.csv",
+      "sha256": "0d8fe96ce012921ce836a8f555e258c2abe73a3d4f3202ac04ec2931e55f942b"
+    },
+    "SHARE": {
+      "relative_path": "pain_external_replication_20261030/data_private/SHARE_primary_longitudinal.csv",
+      "sha256": "45b8957f8ca12ccfd656463fd2d6cc5655739eacd68c7eb13dc64884565464e2"
+    }
+  },
+  "new_prediction_models_run_at_lock": false,
+  "known_prior_association_results": true,
+  "seed": 20261030
+}

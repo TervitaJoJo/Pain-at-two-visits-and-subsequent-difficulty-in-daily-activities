@@ -1,0 +1,3 @@
+"cohort","variable","method","missing","imputed_min","imputed_max","imputed_mean","imputed_sd"
+"ELSA","education","polyreg",45,1,3,1.71288888888889,0.669651536382054
+"ELSA","cesd","pmm",8,0,8,1.385,1.79578314189989

@@ -1,0 +1,20 @@
+check,passed,absolute_error
+HRS M0 independent Python auc,True,1.1102230246251565e-16
+HRS M0 independent Python brier,True,0.0
+HRS M0 independent Python brier_hajek,True,1.1102230246251565e-16
+HRS M1 independent Python auc,True,3.3306690738754696e-16
+HRS M1 independent Python brier,True,1.3877787807814457e-16
+HRS M1 independent Python brier_hajek,True,2.498001805406602e-16
+ELSA M0 independent Python auc,True,4.440892098500626e-16
+ELSA M0 independent Python brier,True,4.996003610813204e-16
+ELSA M0 independent Python brier_hajek,True,0.0
+ELSA M1 independent Python auc,True,2.220446049250313e-16
+ELSA M1 independent Python brier,True,4.718447854656915e-16
+ELSA M1 independent Python brier_hajek,True,2.7755575615628914e-17
+SHARE M0 independent Python auc,True,3.3306690738754696e-16
+SHARE M0 independent Python brier,True,2.7755575615628914e-17
+SHARE M0 independent Python brier_hajek,True,3.608224830031759e-16
+SHARE M1 independent Python auc,True,2.220446049250313e-16
+SHARE M1 independent Python brier,True,1.6653345369377348e-16
+SHARE M1 independent Python brier_hajek,True,5.551115123125783e-17
+Diagnostic-only bootstrap rerun byte-identical,True,0.0
